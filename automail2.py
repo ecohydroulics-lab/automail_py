@@ -21,7 +21,7 @@ for row in ws.iter_rows(min_row=2):
   customer_list.append(value_list)
   
 #PDFのフォルダー
-pdf_dir = "CPDPDF"
+pdf_dir = "PDF"
 
 #メール送付リスト
 mailing_list = []
